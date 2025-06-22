@@ -12,7 +12,7 @@ A modern social platform built with **Next.js** (frontend) and **NestJS** (backe
 ## 🛠️ Tech Stack
 | Frontend | Backend | Database | Auth |
 |----------|---------|----------|------|
-| Next.js | NestJS | SQLite (Dev) | JWT |
+| Next.js | NestJS | SQLite | JWT |
 | TypeScript | Prisma | GraphQL | Google OAuth |
 
 ## 📂 Project Structure
