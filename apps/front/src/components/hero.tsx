@@ -4,18 +4,11 @@ const Hero = () => {
       <div className="container justify-center mx-auto flex flex-col md:flex-row items-center flex-wrap px-3">
         {/* Left col */}
         <div className="flex flex-col w-full justify-center items-start md:w-2/5 text-center md:text-left">
-          <p className="capitalize tracking-wide w-full">
-            Explore insights , tutorials, and stories for curious minds like
-            yours
-          </p>
+  
           <h2 className="my-5 text-5xl font-bold leading-tight">
-            Welcome To Sakura Dev Blog
+            Welcome To Postify app
           </h2>
 
-          <p className="capitalize leading-normal text-xl">
-            Join a community that thrives on learning, creating and growing
-            together.{" "}
-          </p>
         </div>
 
         {/* right col */}
